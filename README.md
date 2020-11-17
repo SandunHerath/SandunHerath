@@ -1,4 +1,17 @@
 ### Hi there 👋
+I'm Sandun Herath.
+
+🎓 Undergraduate.
+
+🔭 I’m currently working on something cool 😉
+
+🌱 I’m currently learning Flutter.
+
+💬 Ask me about Java, JavaScript
+
+☎️ How to reach me:..............
+
+⚡ Fun fact: I ❤️ 💻
 
 <!--
 **SandunHerath/SandunHerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
