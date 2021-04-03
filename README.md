@@ -5,7 +5,7 @@ I'm Sandun Herath.
 
 🔭 I’m currently working on something cool 😉
 
-🌱 I’m currently learning Flutter.
+🌱 I’m currently learning ReactNative.
 
 💬 Ask me about Java, JavaScript
 
