@@ -5,9 +5,9 @@ I'm Sandun Herath.
 
 🔭 I’m currently working on something cool 😉
 
-🌱 I’m currently learning .Net .
+🌱 I’m currently learning  .Net .
 
-💬 Ask me about Java, JavaScript,,spring  boot
+💬 Ask me about Java, JavaScript,spring  boot
 
 ☎️ How to reach me:..............
 
